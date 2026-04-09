@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Northern Ohio Skylight Solutions",
+    "phone": "+14406672512",
+    "category": "window replacement company",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Skylight Experts",
+      "heroSubline": "Durable, energy-efficient skylight solutions for Northeast Ohio homes. Expert installation & repair.",
+      "aboutTitle": "Northeast Ohio's Trusted Skylight Partner",
+      "aboutText": [
+        "Northern Ohio Skylight Solutions was founded over a decade ago by lifelong Cleveland residents who saw a need for specialized skylight services. We understand the unique challenges our local climate poses to skylights and windows, from harsh winters to humid summers.",
+        "Our approach is simple: provide honest assessments, quality workmanship, and lasting results. We prioritize clear communication and treat every home as if it were our own. We don't cut corners, and we stand behind our work.",
+        "We're committed to serving the Cleveland community, and we're proud to support local organizations. We believe in giving back to the neighborhoods that have supported us."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Cleveland's climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the highest-grade skylights and materials built to withstand Ohio's weather."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced technicians ensure proper installation for optimal performance and longevity."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to providing dependable and trustworthy service every time."
+        }
+      ],
+      "ctaHeadline": "Ready for a Brighter Home?",
+      "ctaSubline": "Contact us today for a free consultation and discover the difference skylights can make."
+    },
+    "services": [
+      {
+        "slug": "skylight-installation",
+        "name": "Skylight Installation",
+        "shortDescription": "Professional skylight installation for enhanced natural light and energy efficiency.",
+        "description": "Installing a skylight is more than just cutting a hole in your roof; it's about carefully integrating a new element into your home that enhances its beauty, value, and energy efficiency. Our team starts with a thorough assessment of your home's structure and your specific needs, taking into account factors like roof pitch, sun exposure, and room layout. We offer a wide range of skylight options, from fixed skylights to venting skylights, and we'll help you choose the perfect style and size for your space.\n\nOur installation process is meticulous, ensuring a weatherproof seal and proper flashing to prevent leaks. We use only high-quality materials and follow industry best practices to ensure a long-lasting and trouble-free installation. We handle all aspects of the project, from framing and drywall to painting and finishing touches. We understand the importance of minimizing disruption to your home during the installation process, and we'll work efficiently and respectfully to complete the project on time and within budget.\n\nWith professional skylight installation, you can enjoy the benefits of natural light, improved ventilation, and increased home value for years to come. Let us transform your home with the beauty and functionality of skylights.",
+        "process": [
+          "Step 1: Initial consultation and assessment of your home's needs.",
+          "Step 2: Selection of the appropriate skylight style and size.",
+          "Step 3: Professional installation, including framing, flashing, and sealing.",
+          "Step 4: Interior finishing and cleanup."
+        ],
+        "benefits": [
+          "Increased natural light",
+          "Improved energy efficiency",
+          "Enhanced home value",
+          "Better ventilation"
+        ],
+        "faq": [
+          {
+            "question": "How long does skylight installation typically take?",
+            "answer": "Most installations can be completed in one to two days, depending on the complexity of the project."
+          },
+          {
+            "question": "Will a skylight cause leaks in my roof?",
+            "answer": "With proper installation and flashing, a skylight should not leak. Our experienced installers ensure a watertight seal."
+          },
+          {
+            "question": "What type of skylight is best for my home?",
+            "answer": "The best type of skylight depends on your specific needs and preferences. We can help you choose the right skylight based on factors like room location, sun exposure, and desired functionality."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-repair",
+        "name": "Skylight Repair",
+        "shortDescription": "Expert skylight repair services to address leaks, cracks, and other damages.",
+        "description": "Skylights, while beautiful and functional, are vulnerable to the elements, especially in Cleveland's harsh climate. Leaks, cracks, and condensation are common issues that can compromise the integrity of your skylight and potentially damage your home. Our skylight repair services are designed to address these problems quickly and effectively, preventing further damage and restoring your skylight to its optimal condition.\n\nWe begin with a thorough inspection to identify the source of the problem and assess the extent of the damage. Whether it's a simple resealing job or a more complex repair involving replacing damaged glass or flashing, we have the expertise to handle it. We use high-quality materials and proven techniques to ensure a lasting repair that will protect your home from the elements.\n\nWe understand that a leaking skylight can be a major headache, which is why we offer prompt and reliable service. Our team will work efficiently to minimize disruption to your home and get your skylight back in top shape as quickly as possible. Don't let a damaged skylight compromise your home's comfort and value; contact us today for expert skylight repair services.",
+        "process": [
+          "Step 1: Thorough inspection to identify the source of the problem.",
+          "Step 2: Detailed assessment of the damage and recommended repair solutions.",
+          "Step 3: Professional repair using high-quality materials.",
+          "Step 4: Final inspection to ensure a watertight seal and proper functionality."
+        ],
+        "benefits": [
+          "Leak prevention",
+          "Damage mitigation",
+          "Extended skylight lifespan",
+          "Cost-effective solutions"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my skylight needs repair?",
+            "answer": "Common signs of skylight damage include leaks, condensation, cracks, and discoloration. If you notice any of these issues, it's important to contact us for an inspection."
+          },
+          {
+            "question": "Can I repair a skylight myself?",
+            "answer": "While some minor repairs may be possible for homeowners, it's generally best to leave skylight repairs to the professionals. Improper repairs can lead to further damage and potential leaks."
+          },
+          {
+            "question": "How much does skylight repair cost?",
+            "answer": "The cost of skylight repair depends on the extent of the damage and the type of repair needed. We'll provide you with a detailed estimate before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-replacement",
+        "name": "Skylight Replacement",
+        "shortDescription": "Upgrade your old or damaged skylight with our professional replacement services.",
+        "description": "If your skylight is old, damaged beyond repair, or simply not performing as it should, a skylight replacement may be the best solution. We offer a wide selection of high-quality skylights from leading manufacturers, and our experienced team can help you choose the perfect replacement for your home. We'll take into account factors like energy efficiency, aesthetics, and budget to find a skylight that meets your needs.\n\nOur skylight replacement process is efficient and hassle-free. We'll carefully remove your old skylight and install the new one with precision and attention to detail. We'll ensure a watertight seal and proper flashing to prevent leaks, and we'll handle all aspects of the project, from framing to finishing touches. With a new skylight, you can enjoy improved energy efficiency, enhanced natural light, and increased home value.\n\nWe understand that replacing a skylight can be a significant investment, which is why we offer competitive pricing and flexible financing options. We're committed to providing our customers with the best possible value and a seamless replacement experience. Upgrade your home with a new skylight and experience the difference it can make.",
+        "process": [
+          "Step 1: Consultation and selection of a new skylight.",
+          "Step 2: Removal of the old skylight.",
+          "Step 3: Professional installation of the new skylight.",
+          "Step 4: Final inspection and cleanup."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced natural light",
+          "Increased home value",
+          "Modern aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How long does skylight replacement take?",
+            "answer": "Most skylight replacements can be completed in one day."
+          },
+          {
+            "question": "What are the benefits of replacing my old skylight?",
+            "answer": "Replacing an old skylight can improve energy efficiency, reduce drafts, and enhance the overall look of your home."
+          },
+          {
+            "question": "How much does skylight replacement cost?",
+            "answer": "The cost of skylight replacement depends on the type of skylight and the complexity of the installation. We'll provide you with a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "sun-tunnel-installation",
+        "name": "Sun Tunnel Installation",
+        "shortDescription": "Bring natural light to dark spaces with our professional sun tunnel installation services.",
+        "description": "Sun tunnels, also known as tubular skylights, are a great way to bring natural light into rooms that don't have access to traditional skylights. These innovative lighting solutions consist of a small dome on the roof that captures sunlight and a reflective tube that channels the light down into the room below. Sun tunnels are perfect for hallways, bathrooms, closets, and other interior spaces that need a boost of natural light.\n\nOur sun tunnel installation services are designed to provide you with a seamless and hassle-free experience. We'll start by assessing your home and determining the best location for the sun tunnel. We'll then carefully install the dome on the roof and connect it to the reflective tube. Finally, we'll install the diffuser in the ceiling to distribute the light evenly throughout the room. With a sun tunnel, you can enjoy the benefits of natural light without the need for extensive remodeling.\n\nSun tunnels are energy-efficient, cost-effective, and easy to maintain. They can significantly reduce your reliance on artificial lighting, saving you money on your energy bills. Plus, they add a touch of natural beauty to any room. Contact us today to learn more about our sun tunnel installation services.",
+        "process": [
+          "Step 1: Assessment of your home and selection of the appropriate sun tunnel size.",
+          "Step 2: Installation of the dome on the roof.",
+          "Step 3: Connection of the reflective tube.",
+          "Step 4: Installation of the diffuser in the ceiling."
+        ],
+        "benefits": [
+          "Natural light in dark spaces",
+          "Energy efficiency",
+          "Cost savings",
+          "Easy maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What is a sun tunnel?",
+            "answer": "A sun tunnel is a tubular skylight that brings natural light into interior spaces."
+          },
+          {
+            "question": "Where can sun tunnels be installed?",
+            "answer": "Sun tunnels can be installed in hallways, bathrooms, closets, and other interior rooms."
+          },
+          {
+            "question": "How much does sun tunnel installation cost?",
+            "answer": "The cost of sun tunnel installation depends on the size of the sun tunnel and the complexity of the installation. We'll provide you with a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-leak-detection",
+        "name": "Skylight Leak Detection",
+        "shortDescription": "Accurate leak detection services to identify and resolve skylight leaks quickly.",
+        "description": "A leaking skylight can cause significant damage to your home, from water stains on your ceiling to mold growth and structural damage. That's why it's crucial to address skylight leaks quickly and effectively. Our skylight leak detection services are designed to identify the source of the leak and provide you with a comprehensive solution.\n\nWe use advanced techniques and equipment to pinpoint the exact location of the leak, even if it's not immediately visible. Our experienced technicians will carefully inspect your skylight, flashing, and surrounding roof area to identify any signs of damage or deterioration. Once we've found the source of the leak, we'll provide you with a detailed report and recommend the best course of action.\n\nWhether it's a simple resealing job or a more complex repair involving replacing flashing or damaged glass, we have the expertise to handle it. We're committed to providing our customers with prompt, reliable, and affordable leak detection services. Don't let a skylight leak compromise your home's comfort and value; contact us today for expert leak detection services.",
+        "process": [
+          "Step 1: Thorough inspection of the skylight and surrounding area.",
+          "Step 2: Use of advanced techniques and equipment to pinpoint the leak.",
+          "Step 3: Detailed report and recommended solutions.",
+          "Step 4: Professional repair or replacement services."
+        ],
+        "benefits": [
+          "Accurate leak detection",
+          "Damage prevention",
+          "Cost-effective solutions",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "Why is it important to address skylight leaks quickly?",
+            "answer": "Skylight leaks can cause significant damage to your home, including water stains, mold growth, and structural damage."
+          },
+          {
+            "question": "How do you detect skylight leaks?",
+            "answer": "We use advanced techniques and equipment to pinpoint the exact location of the leak, even if it's not immediately visible."
+          },
+          {
+            "question": "How much does skylight leak detection cost?",
+            "answer": "The cost of skylight leak detection depends on the complexity of the inspection. We'll provide you with a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-maintenance",
+        "name": "Skylight Maintenance",
+        "shortDescription": "Keep your skylights in top condition with our professional maintenance services.",
+        "description": "Regular skylight maintenance is essential for ensuring the longevity and performance of your skylights. Over time, skylights can accumulate dirt, debris, and algae, which can reduce the amount of natural light they let in. Additionally, seals can deteriorate, leading to leaks and drafts. Our skylight maintenance services are designed to address these issues and keep your skylights in top condition.\n\nWe offer a comprehensive range of maintenance services, including cleaning, resealing, and inspection. Our experienced technicians will carefully clean your skylights to remove dirt and debris, ensuring maximum light transmission. We'll also inspect the seals and flashing for any signs of damage or deterioration and make any necessary repairs. With regular skylight maintenance, you can protect your investment and enjoy the benefits of natural light for years to come.\n\nWe recommend scheduling skylight maintenance at least once a year, especially in Cleveland's harsh climate. Our maintenance services are affordable, convenient, and designed to minimize disruption to your home. Contact us today to schedule your skylight maintenance appointment.",
+        "process": [
+          "Step 1: Thorough cleaning of the skylight glass.",
+          "Step 2: Inspection of the seals and flashing.",
+          "Step 3: Resealing of any damaged areas.",
+          "Step 4: Final inspection and cleanup."
+        ],
+        "benefits": [
+          "Increased natural light",
+          "Leak prevention",
+          "Extended skylight lifespan",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule skylight maintenance?",
+            "answer": "We recommend scheduling skylight maintenance at least once a year."
+          },
+          {
+            "question": "What does skylight maintenance include?",
+            "answer": "Skylight maintenance includes cleaning, resealing, and inspection."
+          },
+          {
+            "question": "How much does skylight maintenance cost?",
+            "answer": "The cost of skylight maintenance depends on the size and number of skylights. We'll provide you with a free estimate."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Northern Ohio Skylight Solutions is proud to offer our expert skylight installation and replacement services to the residents and businesses of Cleveland, Ohio. As a leading provider in the region, we understand the unique architectural styles and weather conditions that impact skylight performance in this vibrant city. Our team is dedicated to delivering top-quality products and exceptional craftsmanship to enhance the natural light and energy efficiency of your property.\n\nWhether you're looking to replace an aging skylight in a historic Cleveland home or install a brand-new skylight in a modern downtown office, Northern Ohio Skylight Solutions has the expertise and experience to meet your needs. We offer a wide selection of skylight options, including fixed, venting, and motorized models, to suit any space and budget. Let us help you transform your Cleveland property with the beauty and functionality of natural light.",
+        "localContext": "Cleveland, a major city on Lake Erie, is known for its vibrant arts and culture scene, diverse neighborhoods, and rich industrial history.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Northern Ohio Skylight Solutions is committed to providing Lakewood, Ohio, with top-notch skylight services. Known for its beautiful lakefront views and historic homes, Lakewood residents deserve the best in skylight installation and repair. We understand the unique challenges and opportunities presented by the local architecture and strive to deliver solutions that enhance both the aesthetic appeal and energy efficiency of your home.\n\nFrom addressing leaks in older skylights to installing energy-efficient models in new constructions, our team has the expertise to handle any project in Lakewood. We offer a personalized approach, working closely with you to select the perfect skylight for your needs and ensuring a seamless installation process. Trust Northern Ohio Skylight Solutions to bring natural light and beauty to your Lakewood home.",
+        "localContext": "Lakewood is a vibrant city known for its diverse population, thriving arts scene, and beautiful parks along Lake Erie.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Cleveland Heights"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Northern Ohio Skylight Solutions is proud to serve the residents of Parma, Ohio, with our comprehensive skylight services. As a large and diverse community, Parma homeowners value quality and affordability, and we strive to deliver both. Our team is dedicated to providing expert installations, reliable repairs, and exceptional customer service to ensure your complete satisfaction.\n\nWhether you're looking to brighten up a dark kitchen or add ventilation to a stuffy bathroom, Northern Ohio Skylight Solutions has the perfect skylight solution for your Parma home. We offer a wide range of styles and sizes to fit any budget, and our experienced technicians will ensure a professional and efficient installation. Let us help you enhance the comfort and value of your Parma property with the beauty of natural light.",
+        "localContext": "Parma is a large suburban city known for its family-friendly atmosphere, affordable housing, and convenient access to Cleveland.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Brooklyn",
+          "Seven Hills"
+        ]
+      },
+      {
+        "city": "Rocky River",
+        "slug": "rocky-river-oh",
+        "state": "OH",
+        "content": "Northern Ohio Skylight Solutions is delighted to offer our expert skylight services to the residents of Rocky River, Ohio. Known for its beautiful homes and stunning views of Lake Erie, Rocky River deserves the best in skylight design and installation. We understand the importance of quality craftsmanship and energy efficiency, and we're committed to providing solutions that enhance the beauty and value of your home.\n\nFrom replacing outdated skylights to installing new models in sunrooms and additions, our team has the expertise to handle any project in Rocky River. We offer a wide selection of skylight options, including energy-efficient glass and motorized shades, to suit your specific needs and preferences. Trust Northern Ohio Skylight Solutions to bring natural light and beauty to your Rocky River home.",
+        "localContext": "Rocky River is an affluent suburb known for its beautiful residential areas, excellent schools, and scenic lakefront.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Bay Village",
+          "Fairview Park"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Northern Ohio Skylight Solutions is dedicated to providing Westlake, Ohio, with exceptional skylight services. Westlake is a growing community with modern homes, and its residents appreciate the value of natural light and energy efficiency. We are committed to delivering top-quality products and expert installations to enhance the comfort and beauty of your home.\n\nWhether you're looking to install a new skylight in your Westlake home or need repairs to an existing one, Northern Ohio Skylight Solutions is here to help. We offer a wide range of skylight options to suit any style and budget, and our experienced technicians will ensure a seamless and professional installation. Let us help you transform your Westlake property with the beauty of natural light.",
+        "localContext": "Westlake is a thriving suburb known for its excellent schools, upscale shopping centers, and beautiful parks.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Rocky River"
+        ]
+      },
+      {
+        "city": "Bay Village",
+        "slug": "bay-village-oh",
+        "state": "OH",
+        "content": "Northern Ohio Skylight Solutions provides Bay Village, Ohio with superior skylight installations and repairs. As a lovely lakeside community, Bay Village homes benefit greatly from increased natural light and energy efficiency from our skylight options. We pride ourselves on providing the highest quality service and using only the best materials for your home.\n\nWe offer a wide array of skylight options suitable for any Bay Village home. Whether you are looking to replace an old leaky skylight or install a brand new one, Northern Ohio Skylight Solutions has you covered. Our expert technicians provide professional and efficient installation so you can enjoy the benefits of natural light in your home for years to come.",
+        "localContext": "Bay Village is a charming residential suburb located on the shores of Lake Erie, known for its excellent schools and community atmosphere.",
+        "nearbyAreas": [
+          "Westlake",
+          "Rocky River",
+          "Avon Lake"
+        ]
+      },
+      {
+        "city": "Avon",
+        "slug": "avon-oh",
+        "state": "OH",
+        "content": "Northern Ohio Skylight Solutions is proud to offer skylight services to the growing community of Avon, Ohio. With new construction and home renovations on the rise, Avon residents seek modern and energy-efficient solutions for their homes. We provide quality skylight installations and repairs to meet the needs of this vibrant community.\n\nOur team specializes in providing a wide range of skylight options to suit the architectural styles of Avon homes. From fixed skylights to venting and motorized options, we can help you find the perfect solution to enhance your home's natural light and ventilation. We also offer expert repair services to ensure your existing skylights are functioning properly and efficiently.",
+        "localContext": "Avon is a rapidly growing city known for its family-friendly environment, excellent schools, and convenient access to shopping and dining.",
+        "nearbyAreas": [
+          "Avon Lake",
+          "North Ridgeville",
+          "Westlake"
+        ]
+      },
+      {
+        "city": "North Ridgeville",
+        "slug": "north-ridgeville-oh",
+        "state": "OH",
+        "content": "Northern Ohio Skylight Solutions is committed to serving the residents of North Ridgeville, Ohio, with top-quality skylight services. North Ridgeville is experiencing significant growth, with many new homes and businesses seeking to maximize natural light and energy efficiency. Our team is dedicated to providing expert installations, reliable repairs, and exceptional customer service to ensure your complete satisfaction.\n\nWhether you're looking to brighten up a new construction home or replace an aging skylight in an existing property, Northern Ohio Skylight Solutions has the perfect solution for your North Ridgeville needs. We offer a wide range of styles and sizes to fit any budget, and our experienced technicians will ensure a professional and efficient installation. Let us help you enhance the comfort and value of your North Ridgeville property with the beauty of natural light.",
+        "localContext": "North Ridgeville is a rapidly growing suburban city known for its affordable housing, family-friendly atmosphere, and convenient location.",
+        "nearbyAreas": [
+          "Avon",
+          "Elyria",
+          "North Olmsted"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Skylight Installation",
+        "text": "Northern Ohio Skylight Solutions installed two new skylights in our West Park home, and we couldn't be happier. The team was professional, efficient, and the installation was flawless. Our living room is so much brighter now! Highly recommend.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Skylight Repair",
+        "text": "We had a persistent leak around our skylight after the winter freeze. Northern Ohio Skylight Solutions came out quickly, diagnosed the problem, and fixed it efficiently. They were upfront about the cost and the repair was done well. Good, solid work.",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Sun Tunnel Installation",
+        "text": "I had a dark hallway that needed some light. Northern Ohio Skylight Solutions suggested and installed a sun tunnel. It's incredible! The hallway is now bright and welcoming. The installation team was courteous and cleaned up everything afterwards.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Skylight Replacement",
+        "text": "Our old skylight was cracked and drafty. Northern Ohio Skylight Solutions replaced it with a new, energy-efficient model. What a difference! The house feels warmer, and the new skylight looks great. The crew was punctual and professional.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Linda S.",
+        "rating": 4,
+        "service": "Skylight Maintenance",
+        "text": "We've used Northern Ohio Skylight Solutions for annual skylight maintenance for the past 3 years. They are reliable, thorough, and keep our skylights clean and functioning properly. It's a worthwhile investment to prevent problems down the road.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Skylight Leak Detection",
+        "text": "I suspected a leak, but couldn't find it. Northern Ohio Skylight Solutions used their specialized equipment to locate the source of the leak quickly. They were professional and knowledgeable. I recommend their leak detection service.",
+        "date": "2024-05-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Cleveland Skylight Installation | Repair",
+        "description": "Skylight experts serving Cleveland, OH. Installation, repair & replacement. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Northern Ohio Skylight Solutions",
+        "description": "Learn about our commitment to quality skylight services in Cleveland, OH."
+      },
+      "services": {
+        "title": "Skylight Services | Cleveland, OH",
+        "description": "Expert skylight installation, repair, & replacement services in Cleveland. Serving Northeast Ohio."
+      },
+      "contact": {
+        "title": "Contact Us | Northern Ohio Skylight Solutions",
+        "description": "Contact us for a free skylight consultation in Cleveland, OH. Call +14406672512"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Skylight Services",
+        "description": "Read what our Cleveland customers say about our skylight installation and repair services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Northern Ohio Skylights",
+        "description": "Skylight services in Cleveland and surrounding Northeast Ohio communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "skylight-installation": "/images/service-skylight-installation.webp",
+      "skylight-repair": "/images/service-skylight-repair.webp",
+      "skylight-replacement": "/images/service-skylight-replacement.webp",
+      "sun-tunnel-installation": "/images/service-sun-tunnel-installation.webp",
+      "skylight-leak-detection": "/images/service-skylight-leak-detection.webp",
+      "skylight-maintenance": "/images/service-skylight-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "skylight-installation": {
+        "src": "/images/service-skylight-installation.webp",
+        "srcset": "/images/service-skylight-installation-400w.webp 400w, /images/service-skylight-installation-800w.webp 800w, /images/service-skylight-installation-1200w.webp 1200w, /images/service-skylight-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-repair": {
+        "src": "/images/service-skylight-repair.webp",
+        "srcset": "/images/service-skylight-repair-400w.webp 400w, /images/service-skylight-repair-800w.webp 800w, /images/service-skylight-repair-1200w.webp 1200w, /images/service-skylight-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-replacement": {
+        "src": "/images/service-skylight-replacement.webp",
+        "srcset": "/images/service-skylight-replacement-400w.webp 400w, /images/service-skylight-replacement-800w.webp 800w, /images/service-skylight-replacement-1200w.webp 1200w, /images/service-skylight-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sun-tunnel-installation": {
+        "src": "/images/service-sun-tunnel-installation.webp",
+        "srcset": "/images/service-sun-tunnel-installation-400w.webp 400w, /images/service-sun-tunnel-installation-800w.webp 800w, /images/service-sun-tunnel-installation-1200w.webp 1200w, /images/service-sun-tunnel-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-leak-detection": {
+        "src": "/images/service-skylight-leak-detection.webp",
+        "srcset": "/images/service-skylight-leak-detection-400w.webp 400w, /images/service-skylight-leak-detection-800w.webp 800w, /images/service-skylight-leak-detection-1200w.webp 1200w, /images/service-skylight-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-maintenance": {
+        "src": "/images/service-skylight-maintenance.webp",
+        "srcset": "/images/service-skylight-maintenance-400w.webp 400w, /images/service-skylight-maintenance-800w.webp 800w, /images/service-skylight-maintenance-1200w.webp 1200w, /images/service-skylight-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
